@@ -23,10 +23,15 @@ class Square:
 
     def area_of_my_square(self):
         """ Area of the square """
+        if self.width == 0 or self.height == 0:
+            raise ValueError("one of the dimension cannot be 0")
         return self.width * self.height
 
     def PermiterOfMySquare(self):
         """ Calculates the perimeter of the square """
+        if self.width == 0 or self.height == 0:
+            raise ValueError("One of the dimension cannot be 0")
+
         return (self.width * 2) + (self.height * 2)
 
     def __str__(self):
