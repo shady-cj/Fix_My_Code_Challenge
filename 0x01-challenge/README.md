@@ -11,7 +11,7 @@ But I don’t know why it’s not working…
 
 Could you look at it and fix it please?
 
-My code is (here)[https://github.com/holbertonschool/0x01-Fix_My_Code_Challenge/tree/master/status_server/]
+My code is [here](https://github.com/holbertonschool/0x01-Fix_My_Code_Challenge/tree/master/status_server/)
 
 
 ```
