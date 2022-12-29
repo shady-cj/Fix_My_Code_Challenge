@@ -34,6 +34,10 @@ class Square:
         dimension """
         return "{}/{}".format(self.width, self.height)
 
+    def __repr__(self):
+        """ Returns the representation """
+        return self.__str__()
+
 
 if __name__ == "__main__":
     s = Square(width=12, height=9)
