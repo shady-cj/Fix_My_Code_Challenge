@@ -26,3 +26,13 @@ $ curl -XGET http://0.0.0.0:5000/api/v1/status
 }
 $
 ```
+**Files** - status_server/
+
+
+
+### 1. My square
+I love geometry!
+
+Look [my square](https://github.com/holbertonschool/0x01-Fix_My_Code_Challenge/blob/master/square.py), it’s perfect? No? Should I change something?
+
+**File** - square.py
